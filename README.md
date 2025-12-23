@@ -1,3 +1,7 @@
+
+<img width="1584" height="396" alt="Blue Modern Corporate Staff Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/cb23c4e2-cb01-4c16-b102-9d8749266c93" />
+
+
 # 💫 About Me:
 Hi 👋 I’m Ajay Naik Banoth, a DevOps & Site Reliability Engineer with 3+ years of experience in building scalable, secure, and highly available cloud platforms. I specialize in cloud automation, CI/CD pipelines, Kubernetes, and observability across AWS, Azure, and private cloud environments.<br>
 
