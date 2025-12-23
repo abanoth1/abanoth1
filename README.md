@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hi 👋 I’m Ajay Naik Banoth, a DevOps & Site Reliability Engineer with 3+ years of experience in building scalable, secure, and highly available cloud platforms. I specialize in cloud automation, CI/CD pipelines, Kubernetes, and observability across AWS, Azure, and private cloud environments.<br>
 
+Phone : +1 (312)774-9912
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ajay-naik-banoth1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ajaybanoth.aj@gmail.com) 
