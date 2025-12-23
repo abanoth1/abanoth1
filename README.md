@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-Hi 👋 I’m Ajay Naik Banoth, a DevOps & Site Reliability Engineer with 3+ years of experience in building scalable, secure, and highly available cloud platforms. I specialize in cloud automation, CI/CD pipelines, Kubernetes, and observability across AWS, Azure, and private cloud environments.<br>
+Hi 👋 I’m Ajay Naik Banoth, a DevOps & Cloud  Engineer with 3+ years of experience in building scalable, secure, and highly available cloud platforms. I specialize in cloud automation, CI/CD pipelines, Kubernetes, and observability across AWS, Azure, and private cloud environments.<br>
 
 Phone : +1 (312)774-9912
 
